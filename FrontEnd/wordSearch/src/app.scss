@@ -1,0 +1,40 @@
+@import "~bootstrap/scss/bootstrap";
+* {
+    font-family: sans-serif;
+    
+}
+
+.bold-font{
+    font-weight: bold;
+}
+#grid-input{
+    text-align: center;
+}
+
+.grid-area{
+    margin-top: 30px;
+    table{
+        max-width: 700px;
+        margin: auto;
+        user-select: none;
+
+        td{
+            width: 20px;
+            height: 20px;
+            text-align: center;
+            font-weight: bold;
+
+            &.selected{
+                color: rgb(214, 93, 37);
+                text-decoration: line-through;
+            }
+        }
+    }
+    
+}
+
+.word-list{
+    margin-left: 20px;
+    font-weight: bold;
+}
+
