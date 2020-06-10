@@ -11,4 +11,4 @@ BackEnd: Spring boot using Java, Maven as an integreted part of Spring Boot
 Forntend: Vanilla JS, html,css,Bootstrap 4 for some styling, parceljs bundler SCM: git
 <br>
 <br>
-app is aleardy deplayed at Heroku: https://belal-wordsearch-api.herokuapp.com/
+app is aleardy deplayed at Heroku: https://belal-wordsearch-game.herokuapp.com/
